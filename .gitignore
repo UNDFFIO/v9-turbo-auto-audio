@@ -1,0 +1,20 @@
+# 本地构建与打包结果由 Releases 提供。
+/dist/
+/artifacts/
+*.exe
+*.zip
+*.pdb
+*.tmp
+
+# 本机配置、状态、日志和诊断；不得公开上传。
+**/设置.json
+**/运行状态.json
+**/运行日志.txt*
+**/诊断结果.json
+**/*diagnostics*.json
+
+# 编辑器文件。
+.vs/
+.vscode/
+*.user
+*.suo

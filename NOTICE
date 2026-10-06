@@ -1,0 +1,21 @@
+Required Notice: Copyright (c) 2026 UNDFFIO (https://github.com/UNDFFIO)
+
+V9 Auto Audio / V9 自动声音切换
+Project: https://github.com/UNDFFIO/v9-turbo-auto-audio
+Original project code, binaries, and documentation: PolyForm Noncommercial 1.0.0.
+See LICENSE. Commercial use is not licensed.
+
+AudioDeviceCmdlets
+Copyright (c) 2016-2022 Francois Gendron <fg@frgn.ca>
+Source: https://github.com/frgnca/AudioDeviceCmdlets
+The Windows IPolicyConfig interface layout was checked against this project.
+Its MIT notice is included in LICENSES/AudioDeviceCmdlets-MIT.txt.
+The original third-party material remains under its original MIT terms.
+
+MCHOSE official HUB
+Protocol reference: https://cdn.mchose.com.cn/customPage/prod/assets/hidDeviceOptions-Sp1r1Ins.js
+Only protocol observations are described; the official application, JavaScript
+bundles, firmware, and other vendor files are not redistributed in this project.
+
+MCHOSE and V9 Turbo+ are their respective owners' names and trademarks.
+This is an independent project, not an official MCHOSE product.

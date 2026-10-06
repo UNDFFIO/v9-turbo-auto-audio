@@ -1,0 +1,7 @@
+* text=auto
+*.cs text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.ps1 text eol=crlf
+LICENSE text eol=lf
+NOTICE text eol=lf
